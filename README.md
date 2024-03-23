@@ -116,7 +116,8 @@ A collection of awesome things regarding the Hotwire ecosystem.
 
 #### Strada General Resources
 
-- [Strada GitHub](https://github.com/hotwired/strada) - Coming soon
+- [Strada Official Website](https://strada.hotwired.dev/)
+- [Strada GitHub](https://github.com/hotwired/strada-web)
 
 ### Hotwire Integration
 
